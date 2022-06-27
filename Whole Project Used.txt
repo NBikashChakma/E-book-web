@@ -1,4 +1,4 @@
-Ebooks System-Java Web Project
+Ebooks System-Java Web  |Maven| Project
 ****************************************
 Jsp,Servlet ,mysql connector, jstl
 ***************************************
